@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aturamini
+- 👋 Hi, I’m Mohammad Hasan amini
 - 👀 I’m interested in everythings about tech
 - 🌱 I’m currently learning AI and web development
 - 💞️ I’m looking to collaborate on backend and AI project
